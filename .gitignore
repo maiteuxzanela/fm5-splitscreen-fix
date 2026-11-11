@@ -1,0 +1,10 @@
+# Build artifacts
+tests/build/
+__pycache__/
+*.pyc
+*.o
+*.obj
+*.log
+
+# Keep dist/dinput8.dll tracked for ready releases
+!dist/dinput8.dll
